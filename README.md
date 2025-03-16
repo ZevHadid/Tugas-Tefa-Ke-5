@@ -13,15 +13,21 @@ go run cmd/main.go
 ```
 
 ## Link URL untuk register (membuat akun)
-```http://localhost:8080/register```
+```
+http://localhost:8080/register
+```
 Setelah sukes membuat akun halaman register akan redirect ke halaman login.
 
 ## Link URL untuk login (masuk akun)
-```http://localhost:8080/login```
+```
+http://localhost:8080/login
+```
 Jika belum buat akun atau mencoba masuk dengan akun yang non existent halaman login akan reset form atau menampilkan `Invalid Credentials`.
 Jika akun ada dan password, nama, dan email benar maka halaman login akan redirect ke halaman profile
 
 ## Link URL melihat profile
-```http://localhost:8080/profile```
+```
+http://localhost:8080/profile
+```
 Jika sukses dalam login, halaman profile akan menampilkan nama yang anda gunakan dalam login dan tanggal akun anda dibuat.
 Halaman profile akan redirect ke halaman login jika belum login.
