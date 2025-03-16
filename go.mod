@@ -1,4 +1,4 @@
-module Tugas_5
+module Tugas-Tefa-Ke-5
 
 go 1.23.2
 

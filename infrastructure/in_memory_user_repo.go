@@ -1,7 +1,7 @@
 package infrastructure
 
 import (
-	"Tugas_5/internal/domain"
+	"Tugas-Tefa-Ke-5/internal/domain"
 	"errors"
 	"sync"
 )

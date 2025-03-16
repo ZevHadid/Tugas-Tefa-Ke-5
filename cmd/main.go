@@ -1,10 +1,10 @@
 package main
 
 import (
-	"Tugas_5/delivery/http"
-	"Tugas_5/infrastructure"
-	"Tugas_5/internal/presenter"
-	"Tugas_5/internal/usecase"
+	"Tugas-Tefa-Ke-5/delivery/http"
+	"Tugas-Tefa-Ke-5/infrastructure"
+	"Tugas-Tefa-Ke-5/internal/presenter"
+	"Tugas-Tefa-Ke-5/internal/usecase"
 
 	"github.com/gin-gonic/gin"
 )

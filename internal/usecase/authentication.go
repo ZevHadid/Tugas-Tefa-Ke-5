@@ -1,8 +1,8 @@
 package usecase
 
 import (
-	"Tugas_5/infrastructure"
-	"Tugas_5/internal/domain"
+	"Tugas-Tefa-Ke-5/infrastructure"
+	"Tugas-Tefa-Ke-5/internal/domain"
 	"time"
 
 	"github.com/dgrijalva/jwt-go"

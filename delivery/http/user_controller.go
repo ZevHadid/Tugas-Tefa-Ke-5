@@ -3,9 +3,9 @@ package http
 import (
 	"net/http"
 
-	"Tugas_5/internal/domain"
-	"Tugas_5/internal/presenter"
-	"Tugas_5/internal/usecase"
+	"Tugas-Tefa-Ke-5/internal/domain"
+	"Tugas-Tefa-Ke-5/internal/presenter"
+	"Tugas-Tefa-Ke-5/internal/usecase"
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
